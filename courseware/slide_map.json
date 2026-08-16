@@ -1,0 +1,23 @@
+{
+  "version": "v10.0",
+  "total_slides": 142,
+  "administration": "1-15",
+  "topic_1": "16-58",
+  "topic_2": "59-95",
+  "topic_3": "96-133",
+  "integration": "134-142",
+  "activities": {
+    "01": 54,
+    "02": 55,
+    "03": 56,
+    "04": 92,
+    "05": 93,
+    "06": 130,
+    "07": 131,
+    "08": 132
+  },
+  "videos": {
+    "HBR active listening": 29,
+    "TED Julian Treasure": 113
+  }
+}
