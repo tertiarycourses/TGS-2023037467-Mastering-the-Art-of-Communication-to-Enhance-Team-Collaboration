@@ -53,5 +53,6 @@ Release date: 16 August 2026
 - User-entered `/assessemnt-gen`: mapped to the installed `/assessment-gen` workflow; the misspelled command does not exist.
 - `/tms-push-qa`: no installed command exists; substituted the complete courseware QA plus TMS no-write preview and before/after snapshot gate.
 - `/gdrive-push`: dry-run, write and read-back completed against folder `1PAndhkuiq704bZUDXR5vufpZm2_rac6c`; Activities returned 82/82 checksum matches.
+- Drive exception: one superseded v9 learner-slides PDF remains in the Learner Guide folder because the authenticated account lacks permission to move that specific legacy item. Current v10 file hashes match local outputs and TMS resolves the v10 PDF.
 - Answer-key privacy: all current and archived answer keys have zero `anyone` permissions and fail anonymous binary download; both candidate papers remain public.
 - `/tms-push`: full read-modify-write returned HTTP 200. All seven current URLs were read back and fetched; the secret-safe snapshot verifier confirmed non-target fields were unchanged.
