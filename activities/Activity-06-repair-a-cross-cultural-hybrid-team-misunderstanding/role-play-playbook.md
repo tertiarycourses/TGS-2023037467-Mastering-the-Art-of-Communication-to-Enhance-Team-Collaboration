@@ -3,7 +3,7 @@
 **Course:** Mastering the Art of Communication to Enhance Team Collaboration and Customer Satisfaction  
 **Course Code:** TGS-2023037467  
 **Alignment:** K3, K5, A3  
-**Version:** v10.0 | 16 August 2026
+**Version:** v10.1 | 17 August 2026
 
 ## Detailed role-play playbook
 
