@@ -22,3 +22,7 @@ Apply workplace communication techniques to a realistic scenario and produce evi
 - Audience map
 - Four measurable objectives
 - Trusted-messenger plan
+
+## Share on the class Padlet board
+
+Post your team's key outputs and one takeaway from this activity to the shared class Padlet board for peer review during the debrief: https://alfredang.github.io/padlet/

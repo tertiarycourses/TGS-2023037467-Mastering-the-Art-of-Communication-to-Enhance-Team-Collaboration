@@ -23,3 +23,7 @@ Apply workplace communication techniques to a realistic scenario and produce evi
 - Integrated communications plan
 - Role-play evidence and coaching record
 - Executive pitch
+
+## Share on the class Padlet board
+
+Post your team's key outputs and one takeaway from this activity to the shared class Padlet board for peer review during the debrief: https://alfredang.github.io/padlet/

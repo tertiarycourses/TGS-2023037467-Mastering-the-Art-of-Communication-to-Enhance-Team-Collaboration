@@ -17,6 +17,7 @@ This release preserves the three official domains from the legacy v9 deck and re
 - [Lesson Plan (DOCX)](courseware/LP-Mastering%20the%20Art%20of%20Communication%20to%20Enhance%20Team%20Collaboration%20and%20Customer%20Satisfaction.docx)
 - [Lesson Plan (PDF)](courseware/LP-Mastering%20the%20Art%20of%20Communication%20to%20Enhance%20Team%20Collaboration%20and%20Customer%20Satisfaction.pdf)
 - [Eight self-contained activities](activities/README.md)
+- [Class collaboration board (Padlet)](https://alfredang.github.io/padlet/) — learners post activity outputs and takeaways for peer review
 - [Source coverage](SOURCE-COVERAGE-v10.0.md)
 - [QA and alignment report](QA-ALIGNMENT-v10.0.md)
 

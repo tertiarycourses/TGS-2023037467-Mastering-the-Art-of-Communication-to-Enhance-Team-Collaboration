@@ -4,6 +4,14 @@ Course Code: TGS-2023037467 | Version v10.0
 
 Each activity is self-contained and includes a realistic scenario, role-play playbook, worksheet and acceptance checklist in both Markdown and PDF.
 
+## Class Collaboration Board (Padlet)
+
+All activity outputs are shared on the class Padlet board: https://alfredang.github.io/padlet/
+
+- Post your team's worksheet outputs, photos and key takeaways after each activity.
+- Sort posts by newest, oldest or most liked to follow the class discussion.
+- Like and comment on other teams' posts during the debrief.
+
 - [Activity 01 - Communication Audit at EverBright Electronics](Activity-01-communication-audit-at-everbright-electronics/README.md)
 - [Activity 02 - Active Listening and Customer Recovery at NovaCare Clinics](Activity-02-active-listening-and-customer-recovery-at-novacare-clinics/README.md)
 - [Activity 03 - Channel Choice for a Time-Critical Hotel Service Failure](Activity-03-channel-choice-for-a-time-critical-hotel-service-failure/README.md)
